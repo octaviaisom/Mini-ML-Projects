@@ -5,7 +5,9 @@ A collection of introductory ML projects. These projects were completed as part 
 3.	K Nearest Neighbor (KNN)
 4.	Decision Trees and Random Forests
 5.	Support Vector Machines
-6.	Principal Component Analysis
-7.	Recommender Systems
-8.	Big Data and Spark
-9.	Deep Leaning
+6.  K-Means Clustering
+7.	Principal Component Analysis
+8.	Recommender Systems
+9.  Natural Leaning Processing
+10.	Deep Leaning
+11.	Big Data and Spark
