@@ -1,6 +1,6 @@
 # Mini ML Projects<br>
 A collection of introductory ML projects. These projects were completed as part of the Udemy course [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/)<br><br>
-1.	Linear Regression
+1.	[Linear Regression](/01-Linear-Regression/Linear-Regression-Project.ipynb)
 2.	Logistic Regression
 3.	K Nearest Neighbor (KNN)
 4.	Decision Trees and Random Forests
