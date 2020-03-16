@@ -7,5 +7,5 @@ A collection of introductory ML projects. These projects were completed as part 
 5.	Support Vector Machines
 6.	Principal Component Analysis
 7.	Recommender Systems
-8.	Dig Data and Spark
+8.	Big Data and Spark
 9.	Deep Leaning
