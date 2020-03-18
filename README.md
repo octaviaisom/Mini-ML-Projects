@@ -1,7 +1,7 @@
 # Mini ML Projects<br>
 A collection of introductory ML projects<br><br>
 1.	[Linear Regression](/01-Linear-Regression/Linear-Regression-Project.ipynb)
-2.	Logistic Regression
+2.	[Logistic Regression](/02-Logistic-Regression/Linear-Regression-Project.ipynb)
 3.	K Nearest Neighbor (KNN)
 4.	Decision Trees and Random Forests
 5.	Support Vector Machines
