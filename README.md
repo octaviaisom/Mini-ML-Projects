@@ -2,7 +2,7 @@
 A collection of introductory ML projects<br><br>
 1.	[Linear Regression](/01-Linear-Regression/Linear-Regression-Project.ipynb)
 2.	[Logistic Regression](/02-Logistic-Regression/Logistic-Regression-Project.ipynb)
-3.	K Nearest Neighbor (KNN)
+3.	[K Nearest Neighbor (KNN)](/03-K-Nearest-Neighbors/K-Nearest-Neighbors-Project.ipynb)
 4.	Decision Trees and Random Forests
 5.	Support Vector Machines
 6.  K-Means Clustering
